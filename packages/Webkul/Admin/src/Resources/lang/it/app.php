@@ -17,7 +17,6 @@
             'leads_started'     => 'Lead avviati',
             'products'          => 'Prodotti',
             'top_products'      => 'Top Prodotti',
-            'leads_started'     => 'Lead avviati',
             'leads_over_time'   => 'Lead nel tempo',
             'no_record_found'   => 'Nessun record trovato',
             'week'              => 'Settimana',
@@ -224,7 +223,6 @@
             'quote-destroy-success'    => 'Preventivo rimosso con successo.',
             'tag-create-success'       => 'Tag aggiunto con successo.',
             'tag-destroy-success'      => 'Tag rimosso con successo.',
-            'edit'                     => 'Modifica',
         ],
 
         'quotes' => [
